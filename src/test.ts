@@ -1,6 +1,6 @@
-import { EntityManager } from './entities/EntityManager';
-import { SignManager } from './entities/SignManager';
-import { TypeManager } from './entities/TypeManager';
+import { EntityManager } from './EntityManager';
+import { SignManager } from './SignManager';
+import { TypeManager } from './TypeManager';
 
 const ENTITIES_COUNT = (window as any).ENTITIES_COUNT || 10000;
 

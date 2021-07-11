@@ -3,7 +3,7 @@
   "version": "1.0.0-alpha.1",
   "description": "Fake ECS implementation",
   "main": "dist/index.js",
-  "types": "dist/index.d.ts",
+  "types": "dist/src/index.d.ts",
   "scripts": {
     "build": "webpack --env production --mode production",
     "serve:dev": "webpack serve --env dev --mode none"
